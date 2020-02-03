@@ -1,0 +1,7 @@
+.*_files/
+.*html
+.*pdf
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
