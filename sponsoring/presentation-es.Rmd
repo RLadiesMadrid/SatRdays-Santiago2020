@@ -137,8 +137,6 @@ class: slidish, small
 ]
 
 .pull-right[
-</br>
-</br>
 
 ```{r echo = FALSE, warning=FALSE, message=FALSE}
 source("map.R")
@@ -155,14 +153,27 @@ classe: slide
 #### El equipo organizador
 
 .pull-left[
-### R-Ladies Madrid
+<img src ="https://raw.githubusercontent.com/rladies/starter-kit/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width = "80%"></img>
 
-<img src ="https://raw.githubusercontent.com/rladies/starter-kit/master/logo/R-LadiesGlobal_RBG_online_LogoWithText_Horizontal.png" width = "90%"></img>
+- Bea Hernández
+- Elen Irazabal
+- Inés Huertas
+- Leticia Martín-Fuertes
+- Miguel Flores*
+
 
 ]
 
 .pull-right[
-### Xantar Dev
+<img src ="https://pbs.twimg.com/profile_banners/707887777258586112/1483541418/1500x500" width = "82%"></img>
+
+- Aurora
+- Bárbara Román
+- Daniel Rey
+]
+
+.footnote[
+[*]: Colaborador
 ]
 
 ---

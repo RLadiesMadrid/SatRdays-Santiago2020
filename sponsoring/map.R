@@ -29,4 +29,4 @@ map <- map_data("world") %>%
   guides(fill=FALSE) +
   coord_quickmap() +
   theme_void() +
-  theme(legend.title = element_blank())
+  theme(legend.title = element_blank(), legend.position="bottom")
