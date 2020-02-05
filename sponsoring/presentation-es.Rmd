@@ -167,7 +167,7 @@ classe: slide
 .pull-right[
 <img src ="https://pbs.twimg.com/profile_banners/707887777258586112/1483541418/1500x500" width = "82%"></img>
 
-- Aurora
+- Aurora Baluja
 - Bárbara Román
 - Daniel Rey
 ]
